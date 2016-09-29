@@ -1,6 +1,7 @@
 $(function() {
     Initialize();
     setTimeout(DrawLoop, 1000);
+    
 });
 
 var cars = [];
