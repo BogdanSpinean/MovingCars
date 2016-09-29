@@ -1,0 +1,10 @@
+body {
+    background-color: grey;
+}
+
+.joint-paper {  /* only select .paper classes that are child of .paper-scroller */
+    margin: 0;
+    position:relative;
+    display: inline-block;
+    background-color: white;
+}
